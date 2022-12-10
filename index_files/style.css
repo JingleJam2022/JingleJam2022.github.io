@@ -1161,20 +1161,6 @@ a.slider_btn {
 *******About us******
 **************************/
 
-#about {
-  background: #242a33 url(../../assets/images/cta2/cta2-bg.jpg) no-repeat 50% 50%;
-  background-size: cover;
-  color: #fff;
-  padding: 70px 0;
-  text-align: center;
-}
-
-#about h2,
-#get-in-touch h1,
-#get-in-touch h2, #about-us .about-skill h2 {
-  color: #ffab0a;
-}
-
 
 #skills, #experience, #about, #testimonials, #blog, #animated-number, #portfolio, #get-in-touch, #contact, #service{
   padding: 100px 0;
